@@ -1,3 +1,47 @@
 @charset "utf-8";
 /* CSS Document */
 
+.header{
+	font-family: Verdana;
+	font-weight: Normal;
+	font-size: 50px;
+	color: white;
+	font-display: centered;
+}
+
+.links {
+	color: aquamarine;
+	font-size: 16px;
+}
+
+body {
+	background-color: black;
+	text-align: center;
+	image-orientation: center;
+}
+
+.support{
+	font-family: Verdana;
+	font-size: 21px;
+	color: grey;
+}
+
+.headertwo{
+	font-family: Verdana;
+	font-weight: 300;
+	font-size: 42px;
+}
+
+.copyright{
+	font-family: Verdana;
+	font-size: 21px;
+	color: grey;
+	text-align: right;
+}
+
+.landscape{
+	background-image: url("../Images/landscape.jpg")
+	background-size: cover;
+	width: 896px;
+	height: 527px;
+}
